@@ -1,0 +1,23 @@
+{
+  "name": "shiny-octo-invention",
+  "version": "1.0.0",
+  "description": "Ohhh So Sweet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hr07exploiter/shiny-octo-invention.git"
+  },
+  "author": "Shubham Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hr07exploiter/shiny-octo-invention/issues"
+  },
+  "homepage": "https://github.com/hr07exploiter/shiny-octo-invention#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "simple-git": "^2.44.0"
+  }
+}
